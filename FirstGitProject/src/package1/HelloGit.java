@@ -11,7 +11,10 @@ public class HelloGit {
 	 * @param args arguments
 	 */
 	public static void main(String[] args) {
+		
 		System.out.println("Hello Git");
+		
+		System.out.println("Earlier Finish");
 
 	}
 
