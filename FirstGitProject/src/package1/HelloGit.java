@@ -14,6 +14,7 @@ public class HelloGit {
 		for(int i =10; i<=0; i--) {
 			System.out.println("Hello Git");
 		}
+		System.out.println("Finished");
 
 	}
 
