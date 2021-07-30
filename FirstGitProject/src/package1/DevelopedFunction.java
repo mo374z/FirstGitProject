@@ -14,9 +14,13 @@ public class DevelopedFunction {
 	 * @return length of word
 	 */
 	
+	//little comment to explain the function 
+	
 	public int newDeveloped(String s) {
 		char[] splitted = s.toCharArray();
 		return splitted.length;
 	}
+	
+	
 
 }
